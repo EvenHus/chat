@@ -41,4 +41,7 @@ public class chat extends AppCompatActivity {
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
     }
 
+
+
+
 }
